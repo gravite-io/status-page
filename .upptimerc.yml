@@ -19,6 +19,7 @@ sites:
       - 404
 
 status-website:
+  publish: true
   cname: status.gravite.io
   logoUrl: https://app.gravite.io/favicon.ico
   name: Gravite Status

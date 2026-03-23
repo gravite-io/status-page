@@ -60,10 +60,12 @@ jobs:
         with:
           workflow: Graphs CI
           token: ${{ secrets.GH_PAT || github.token }}
-      - name: Build status page
-        run: |
-          npm install @upptime/status-page
-          npx @upptime/status-page
+      - name: Generate site
+        uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "site"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:

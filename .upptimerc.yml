@@ -5,11 +5,7 @@ sites:
   - name: App (Frontend)
     url: https://app.gravite.io
   - name: API (Legacy)
-    url: https://app.gravite.io/api
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
+    url: https://app.gravite.io/api/health
   - name: API v2 (NestJS)
     url: https://app.gravite.io/api/v2
     expectedStatusCodes:

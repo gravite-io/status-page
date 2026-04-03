@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 392,
-    "timeWeek": 607,
-    "timeMonth": 621,
-    "timeYear": 621,
+    "time": 607,
+    "timeDay": 393,
+    "timeWeek": 605,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gravite.io.ico",
     "slug": "api-legacy",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 158,
-    "timeDay": 123,
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 156,
+    "timeDay": 127,
     "timeWeek": 149,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2026-03-23": 107
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 93,
+    "time": 125,
+    "timeDay": 94,
     "timeWeek": 118,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]

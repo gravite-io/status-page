@@ -22,18 +22,19 @@
     "url": "https://app.gravite.io/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.gravite.io.ico",
     "slug": "api-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 158,
-    "timeDay": 150,
-    "timeWeek": 154,
+    "timeDay": 148,
+    "timeWeek": 153,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2026-05-02": 0,
       "2026-03-23": 107
     }
   },

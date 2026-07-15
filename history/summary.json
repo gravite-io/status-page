@@ -46,19 +46,20 @@
     "url": "https://app.gravite.io/api/v2",
     "icon": "https://icons.duckduckgo.com/ip3/app.gravite.io.ico",
     "slug": "api-v2-nest-js",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 735,
-    "timeDay": 24736,
-    "timeWeek": 6501,
-    "timeMonth": 2039,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.94%",
+    "time": 1059,
+    "timeDay": 29927,
+    "timeWeek": 10258,
+    "timeMonth": 3235,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2026-05-11": 72
+      "2026-05-11": 72,
+      "2026-07-15": 23
     }
   }
 ]

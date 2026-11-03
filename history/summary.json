@@ -24,21 +24,22 @@
     "url": "https://app.gravite.io/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.gravite.io.ico",
     "slug": "api-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 564,
-    "timeDay": 693,
-    "timeWeek": 717,
-    "timeMonth": 660,
-    "timeYear": 564,
+    "time": 644,
+    "timeDay": 10160,
+    "timeWeek": 3081,
+    "timeMonth": 1253,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-05-02": 222,
       "2026-05-04": 60,
-      "2026-05-11": 141
+      "2026-05-11": 141,
+      "2026-11-03": 1
     }
   },
   {
@@ -46,20 +47,21 @@
     "url": "https://app.gravite.io/api/v2",
     "icon": "https://icons.duckduckgo.com/ip3/app.gravite.io.ico",
     "slug": "api-v2-nest-js",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 806,
-    "timeDay": 578,
-    "timeWeek": 514,
-    "timeMonth": 560,
-    "timeYear": 806,
+    "time": 887,
+    "timeDay": 10091,
+    "timeWeek": 2900,
+    "timeMonth": 1155,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2026-05-11": 72,
-      "2026-07-15": 23
+      "2026-07-15": 23,
+      "2026-11-03": 0
     }
   }
 ]

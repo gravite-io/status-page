@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 278,
-    "timeDay": 310,
-    "timeWeek": 216,
-    "timeMonth": 223,
+    "timeDay": 405,
+    "timeWeek": 248,
+    "timeMonth": 234,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-05-11": 73
@@ -26,20 +26,19 @@
     "slug": "api-legacy",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 643,
-    "timeDay": 6942,
-    "timeWeek": 2795,
-    "timeMonth": 1230,
-    "timeYear": 643,
+    "time": 644,
+    "timeDay": 7010,
+    "timeWeek": 2821,
+    "timeMonth": 1244,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-05-02": 222,
       "2026-05-04": 60,
-      "2026-05-11": 141,
-      "2026-11-03": 14
+      "2026-05-11": 141
     }
   },
   {
@@ -49,19 +48,18 @@
     "slug": "api-v2-nest-js",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 885,
-    "timeDay": 6878,
-    "timeWeek": 2628,
-    "timeMonth": 1134,
+    "timeDay": 6927,
+    "timeWeek": 2654,
+    "timeMonth": 1144,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2026-05-11": 72,
-      "2026-07-15": 23,
-      "2026-11-03": 12
+      "2026-07-15": 23
     }
   }
 ]

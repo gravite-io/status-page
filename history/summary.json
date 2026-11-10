@@ -24,21 +24,22 @@
     "url": "https://app.gravite.io/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.gravite.io.ico",
     "slug": "api-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 646,
-    "timeDay": 717,
-    "timeWeek": 2817,
-    "timeMonth": 1247,
+    "timeDay": 642,
+    "timeWeek": 699,
+    "timeMonth": 1227,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2026-05-02": 222,
       "2026-05-04": 60,
-      "2026-05-11": 141
+      "2026-05-11": 141,
+      "2026-11-10": 0
     }
   },
   {
@@ -54,7 +55,7 @@
     "uptimeYear": "99.97%",
     "time": 879,
     "timeDay": 684,
-    "timeWeek": 2739,
+    "timeWeek": 630,
     "timeMonth": 1147,
     "timeYear": 879,
     "dailyMinutesDown": {
